@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521278998045",
+    "project_id": "ar2687386kevinandresmora-ca3a0",
+    "storage_bucket": "ar2687386kevinandresmora-ca3a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521278998045:android:092d69ef6e4edc4bd5a8f4",
+        "android_client_info": {
+          "package_name": "com.example.ar2687386kevinandresmora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5vvx-I0dD-qT6c7jLMZuZAvZBfqDu_r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
